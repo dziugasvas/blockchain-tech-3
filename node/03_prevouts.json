@@ -1,0 +1,18 @@
+[
+  {
+    "txid": "1a65bba16b8df09aad2233b01cb8951a687e879a4fa7040eb5c12f1e5f36389f",
+    "vout": 0,
+    "address": "bcrt1qh9a0ezsgnrn8xx9gxhqhgm852jq8v32df4wyuj",
+    "label": "mining",
+    "scriptPubKey": "0014b97afc8a0898e67318a835c1746cf4548076454d",
+    "amount": 50.00000000,
+    "confirmations": 101,
+    "spendable": true,
+    "solvable": true,
+    "desc": "wpkh([546add0a/84h/1h/0h/0/0]032bcf938bc95051c00e022c1920cbbca0c200d94186fac38462c2ad946155143f)#qpzfnll3",
+    "parent_descs": [
+      "wpkh([546add0a/84h/1h/0h]tpubDCWKR9VxgX3bir2C1vKfN9pogM8CpQyX5AYPKdonkgvknwHkHLM8ERiwgZZoJxGjwnNhzW6fgX6EpJdxGfVUiUgZKWbSu1g4ni1jXtrThAC/0/*)#gdu2ys64"
+    ],
+    "safe": true
+  }
+]

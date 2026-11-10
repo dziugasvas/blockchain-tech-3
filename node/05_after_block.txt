@@ -1,0 +1,55 @@
+Tue Nov 10 14:15:27 UTC 2026
+labblock=45e98ab37d6dc7d91b8bc5408c448784df6a084d3549c27dc3b6af03c59a619b
+{
+  "loaded": true,
+  "size": 0,
+  "bytes": 0,
+  "usage": 64,
+  "total_fee": 0.00000000,
+  "maxmempool": 300000000,
+  "mempoolminfee": 0.00000100,
+  "minrelaytxfee": 0.00000100,
+  "incrementalrelayfee": 0.00000100,
+  "unbroadcastcount": 0,
+  "fullrbf": true,
+  "permitbaremultisig": true,
+  "maxdatacarriersize": 100000,
+  "limitclustercount": 64,
+  "limitclustersize": 101000,
+  "optimal": true
+}
+{
+  "amount": 1.00000000,
+  "confirmations": 1,
+  "blockhash": "45e98ab37d6dc7d91b8bc5408c448784df6a084d3549c27dc3b6af03c59a619b",
+  "blockheight": 102,
+  "blockindex": 1,
+  "blocktime": 1794320122,
+  "txid": "76c754e5d6a8a2236212d2220d71ef670a8bc0f1804092694015ce63d72e7213",
+  "wtxid": "ade84370b84807fd06eb572984fb35ab6a3313299be24dbbb74acf9199750aff",
+  "walletconflicts": [
+  ],
+  "mempoolconflicts": [
+  ],
+  "time": 1794320114,
+  "timereceived": 1794320114,
+  "bip125-replaceable": "no",
+  "details": [
+    {
+      "address": "bcrt1qm4y9v2qga2knnycnltxrpczfzg5vvsg33k6wxj",
+      "parent_descs": [
+        "wpkh([d13cff13/84h/1h/0h]tpubDD4FvXHePQDHw4FeJ4HGh94NqQSt3kSrpbmN8YvYRuyNGjmLpx4XKjZNmiT4tzJivt1C81hUiGCZYEpDbxpBxmY6Dnrkamru3DQBV379hhP/0/*)#c8h2smle"
+      ],
+      "category": "receive",
+      "amount": 1.00000000,
+      "label": "payment",
+      "vout": 0,
+      "abandoned": false
+    }
+  ],
+  "hex": "020000000001019f38365f1e2fc1b50e04a74f9a877e681a95b81cb03322ad9af08d6ba1bb651a0000000000fdffffff0200e1f50500000000160014dd48562808eaad399313facc30e0491228c64111e60f1024010000001600143ea26763971b7f91cd11518d403b95d2fee509ca02473044022013af024601642122592cb4229f515192adec24831f45e65034ce58ee6c5889d602202d8f91fd7206d3ecf736bc4ca3b9c567fda7ed0f00f28309b1cc5681f1e51f660121032bcf938bc95051c00e022c1920cbbca0c200d94186fac38462c2ad946155143f65000000",
+  "lastprocessedblock": {
+    "hash": "45e98ab37d6dc7d91b8bc5408c448784df6a084d3549c27dc3b6af03c59a619b",
+    "height": 102
+  }
+}

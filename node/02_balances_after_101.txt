@@ -1,0 +1,14 @@
+Tue Nov 10 14:14:54 UTC 2026
+miner=bcrt1qh9a0ezsgnrn8xx9gxhqhgm852jq8v32df4wyuj
+recipient=bcrt1qm4y9v2qga2knnycnltxrpczfzg5vvsg33k6wxj
+{
+  "mine": {
+    "trusted": 50.00000000,
+    "untrusted_pending": 0.00000000,
+    "immature": 5000.00000000
+  },
+  "lastprocessedblock": {
+    "hash": "2001f30918968480ba2a59935e13ca3f71eb900b6cdf6fa9ecd326d032cebfb1",
+    "height": 101
+  }
+}

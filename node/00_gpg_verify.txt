@@ -1,0 +1,83 @@
+gpg: Signature made Tue Jul  7 02:09:57 2026 CEST
+gpg:                using RSA key 152812300785C96444D3334D17565732E08E5E41
+gpg:                issuer "me@achow101.com"
+gpg: Good signature from "Ava Chow <me@achow101.com>" [unknown]
+gpg:                 aka "Ava Chow <github@achow101.com>" [unknown]
+gpg:                 aka "Ava Chow <achow101@pm.me>" [unknown]
+gpg: WARNING: The key's User ID is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      152812300785C96444D3334D17565732E08E5E41
+gpg: Signature made Tue Jul  7 10:53:43 2026 CEST
+gpg:                using RSA key CFB16E21C950F67FA95E558F2EEB9F5CC09526C1
+gpg:                issuer "fanquake@gmail.com"
+gpg: Good signature from "Michael Ford (bitcoin-otc) <fanquake@gmail.com>" [unknown]
+gpg: WARNING: The key's User ID is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      E777299FC265DD04793070EB944D35F9AC3DB76A
+      CFB16E21C950F67FA95E558F2EEB9F5CC09526C1
+gpg: Signature made Tue Jul  7 19:20:17 2026 CEST
+gpg:                using RSA key D1DBF2C4B96F2DEBF4C16654410108112E7EA81F
+gpg:                issuer "hebasto@gmail.com"
+gpg: Good signature from "Hennadii Stepanov (GitHub key) <32963518+hebasto@users.noreply.github.com>" [unknown]
+gpg:                 aka "Hennadii Stepanov (hebasto) <hebasto@gmail.com>" [unknown]
+gpg: WARNING: The key's User ID is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      D1DBF2C4B96F2DEBF4C16654410108112E7EA81F
+gpg: Signature made Tue Jul  7 10:42:48 2026 CEST
+gpg:                using RSA key 0AD83877C1F0CD1EE9BD660AD7CC770B81FD22A8
+gpg:                issuer "benthecarman@live.com"
+gpg: Good signature from "Ben Carman <benthecarman@live.com>" [unknown]
+gpg: WARNING: The key's User ID is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      0AD83877C1F0CD1EE9BD660AD7CC770B81FD22A8
+gpg: Signature made Tue Jul  7 14:32:22 2026 CEST
+gpg:                using RSA key F4FC70F07310028424EFC20A8E4256593F177720
+gpg:                issuer "gugger@gmail.com"
+gpg: Good signature from "Oliver Gugger <gugger@gmail.com>" [unknown]
+gpg: WARNING: The key's User ID is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      F4FC70F07310028424EFC20A8E4256593F177720
+gpg: Signature made Tue Jul  7 20:51:30 2026 CEST
+gpg:                using EDDSA key 5B286407E1EA6FE01CF9AF48BF131C2D0536F8AC
+gpg: Good signature from "marcofleon <marleo23@proton.me>" [unknown]
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      5B286407E1EA6FE01CF9AF48BF131C2D0536F8AC
+gpg: Signature made Tue Jul  7 14:29:22 2026 CEST
+gpg:                using RSA key E61773CD6E01040E2F1BD78CE7E2984B6289C93A
+gpg:                issuer "pinheadmz@gmail.com"
+gpg: Good signature from "Matthew Zipkin (GitHub Signing Key) <pinheadmz@gmail.com>" [unknown]
+gpg: WARNING: The key's User ID is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      E61773CD6E01040E2F1BD78CE7E2984B6289C93A
+gpg: Signature made Tue Jul  7 10:36:16 2026 CEST
+gpg:                using RSA key 637DB1E23370F84AFF88CCE03152347D07DA627C
+gpg: Good signature from "Stephan Oeste (it) <it@oeste.de>" [unknown]
+gpg:                 aka "Stephan Oeste (Master-key) <stephan@oeste.de>" [unknown]
+gpg:                 aka "Emzy E. (emzy) <emzy@emzy.de>" [unknown]
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      9EDAFF80E080659604F4A76B2EBB056FD847F8A7
+      637DB1E23370F84AFF88CCE03152347D07DA627C
+gpg: Signature made Tue Jul  7 21:35:58 2026 CEST
+gpg:                using RSA key A0083660F235A27000CD3C81CE6EC49945C17EA6
+gpg: Good signature from "Will Clark <will@256k1.dev>" [unknown]
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      67AA5B46E7AF78053167FE343B8F814A784218F8
+      A0083660F235A27000CD3C81CE6EC49945C17EA6
+gpg: Signature made Tue Jul  7 18:20:58 2026 CEST
+gpg:                using RSA key ED9BDF7AD6A55E232E84524257FF9BDBCC301009
+gpg: Good signature from "Sjors Provoost <sjors@sprovoost.nl>" [unknown]
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      ED9BDF7AD6A55E232E84524257FF9BDBCC301009
+gpg: Signature made Tue Jul  7 14:35:55 2026 CEST
+gpg:                using RSA key F2CFC4ABD0B99D837EEBB7D09B79B45691DB4173
+gpg:                issuer "seb.kung@gmail.com"
+gpg: Good signature from "sedited <seb.kung@gmail.com>" [unknown]
+gpg:                 aka "Sebastian Kung (TheCharlatan) <seb.kung@gmail.com>" [unknown]
+gpg: WARNING: The key's User ID is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+      A8FC55F3B04BA3146F3492E79303B33A305224CB
+      F2CFC4ABD0B99D837EEBB7D09B79B45691DB4173
