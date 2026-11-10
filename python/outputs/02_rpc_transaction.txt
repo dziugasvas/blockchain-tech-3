@@ -1,0 +1,33 @@
+txid:   76c754e5d6a8a2236212d2220d71ef670a8bc0f1804092694015ce63d72e7213
+wtxid:  ade84370b84807fd06eb572984fb35ab6a3313299be24dbbb74acf9199750aff
+blokas: 45e98ab37d6dc7d91b8bc5408c448784df6a084d3549c27dc3b6af03c59a619b
+
+Iejimai:
+  1a65bba16b8df09aad2233b01cb8951a687e879a4fa7040eb5c12f1e5f36389f:0  bcrt1qh9a0ezsgnrn8xx9gxhqhgm852jq8v32df4wyuj  5000000000 sat
+Isejimai:
+  n=0  bcrt1qm4y9v2qga2knnycnltxrpczfzg5vvsg33k6wxj  100000000 sat
+  n=1  bcrt1q863xwcuhrdlerng32xx5qwu46tlw2zw2jvyze5  4899999718 sat
+
+Iejimu suma:   5000000000 sat
+Isejimu suma:  4999999718 sat
+Mokestis:      282 sat
+Mazgo fee:     282 sat SUTAMPA
+Fee rate:      2.00 sat/vB
+
+txid  is hex be witness: SUTAMPA
+wtxid is pilno hex:      SUTAMPA
+SegWit: taip
+            mazgas  apskaiciuota
+size           222     222
+weight         561     561
+vsize          141     141
+base_size              113
+Dydziai SUTAMPA
+
+Legacy palyginimas (Mastering Bitcoin, Alice tx):
+  txid:    0627052b6f28912f2703066a912ea577f2ce4da4caa5a5fbd8a57286c345c2f2
+  wtxid:   0627052b6f28912f2703066a912ea577f2ce4da4caa5a5fbd8a57286c345c2f2 (be witness txid == wtxid)
+  size 258, base 258, weight 1032, vsize 258
+
+Musu SegWit tx: txid != wtxid: True
+Musu SegWit tx: vsize < size: True (witness baitai sveria 1, ne 4)
