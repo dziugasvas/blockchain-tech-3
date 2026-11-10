@@ -1,0 +1,20 @@
+Blokas:     45e98ab37d6dc7d91b8bc5408c448784df6a084d3549c27dc3b6af03c59a619b
+Aukstis:    102
+Tx kiekis:  2
+
+  ff4038658b93cab25f8b0aad01eef5cecdab18ff1df9d908eb147db7c5f653d1  2 isejimai  5000000282 sat
+  76c754e5d6a8a2236212d2220d71ef670a8bc0f1804092694015ce63d72e7213  2 isejimai  4999999718 sat
+
+Visu isejimu suma:  10000000000 sat (100 BTC)
+Coinbase isejimai:  5000000282 sat
+Subsidija + fee:    5000000000 + 282 = 5000000282 sat SUTAMPA
+
+Antraste (80 baitu):
+  00000020b1bfce32d026d3eca96fdf6c0b90eb713fca135e93592aba8084961809f30120393380276c31960a6dd41e4797b190303b7aec34859dbbc8149e2c7127b19feafa26f36affff7f2002000000
+Antraste kaip mazge: SUTAMPA
+SHA256d(antraste):   45e98ab37d6dc7d91b8bc5408c448784df6a084d3549c27dc3b6af03c59a619b
+Bloko hash:          45e98ab37d6dc7d91b8bc5408c448784df6a084d3549c27dc3b6af03c59a619b SUTAMPA
+hash <= target:      True (bits 207fffff)
+
+nonce + 1 ->         48779bd761ba5f01ce629106e824d525fcd3c0501fb3a0fe2ab263d0276aa0a0
+Hash pasikeite:      True
