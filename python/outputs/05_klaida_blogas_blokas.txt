@@ -1,0 +1,1 @@
+KLAIDA: RPC klaida getblock: blockhash must be of length 64 (not 4, for '1234')

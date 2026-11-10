@@ -1,0 +1,1 @@
+KLAIDA: RPC klaida getrawtransaction: No such transaction found in the provided block. Use gettransaction for wallet transactions.
