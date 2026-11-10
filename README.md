@@ -1,4 +1,4 @@
-# blockchain-tech-3
+# Bitcoin duomenų analizė: Merkle, regtest mazgas ir RPC
 
 Blokų grandinių technologijos, 3 užduotis (papildoma). Trys dalys:
 
@@ -96,4 +96,4 @@ Palyginimui naudojama legacy transakcija iš *Mastering Bitcoin* (Alice, `data/a
 
 ## DI naudojimas
 
-Šiai užduočiai naudotas DI asistentas (Claude): Libbitcoin ir Boost diegimo problemoms spręsti, Makefile, C++ Merkle ir Python skriptų kodui rašyti, regtest žingsniams ir šiam README. Rezultatus paleidau ir patikrinau savo kompiuteryje.
+Šiai užduočiai naudotas DI asistentas (Claude): Libbitcoin ir Boost diegimo problemoms spręsti, pagalba C++ Merkle ir Python skriptų kodui rašyti, regtest žingsniams ir šio README tobulinimui. Rezultatus paleidau ir patikrinau savo kompiuteryje.
