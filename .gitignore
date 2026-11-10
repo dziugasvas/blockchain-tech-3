@@ -1,4 +1,4 @@
-merkle/merkle
-merkle/run_tests
+run_merkle
+run_tests
 .DS_Store
 .vscode/
