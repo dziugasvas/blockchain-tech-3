@@ -1,0 +1,8 @@
+Laikas (UTC):        2026-11-10 14:25:00
+Tinklas:             regtest
+Blokai:              102
+Antrastes:           102
+Geriausias blokas:   45e98ab37d6dc7d91b8bc5408c448784df6a084d3549c27dc3b6af03c59a619b
+IBD:                 False
+Versija:             310100 /Satoshi:31.1.0/
+Jungtys:             0
